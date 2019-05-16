@@ -82,7 +82,7 @@ refresh:
 	rm -rf */.ipynb_checkpoints
 	rm -rf output
 	git add .
-	git commit -m "Updated content"
+	git commit -m "Update the content"
 	git push origin dev
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github refresh
