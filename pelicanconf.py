@@ -3,9 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Francois Leblanc'
-SITENAME = 'GoC Study Group - Doing Bayesian Data Analysis'
+SITENAME = 'Study Group - Doing Bayesian Data Analysis'
 SITEURL = ''
-SITESUBTITLE = 'A 10-Week Study Group Focused on Bayesian Data Analysis'
+SITETITLE = 'Bayesian Study Group'
+SITESUBTITLE = 'A 10-Week Study Group on Bayesian Data Analysis'
 SITELOGO = 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayes_icon.svg/500px-Bayes_icon.svg.png'
 
 ROBOTS = 'index, follow'
