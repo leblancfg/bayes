@@ -10,7 +10,14 @@ PATH = 'content'
 
 TIMEZONE = 'America/Montreal'
 
-DEFAULT_LANG = 'English'
+I18N_TEMPLATES_LANG = 'en'
+DEFAULT_LANG = 'en'
+OG_LOCALE = 'en_US'
+LOCALE = 'en_US'
+
+DATE_FORMATS = {
+    'en': '%B %d, %Y',
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,7 +36,18 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
+CC_LICENSE = {
+    'name': 'Public Domain',
+    'slug': 'CC0'
+}
+
+COPYRIGHT_YEAR = 2019
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Define Links
+STATIC_PATHS = ['img', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
+
