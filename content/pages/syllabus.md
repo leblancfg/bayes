@@ -1,8 +1,10 @@
 ---
-Title: Syllabus
-Authors: [François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoie](mailto:chris.lavoie@canada.ca)
-Slug: syllabus
-Date: 16-05-2019
+title: Syllabus
+author:
+- François Leblanc ([francois.leblanc@tbs-sct.gc.ca](mailto:francois.leblanc@tbs-sct.gc.ca))
+- Chris Lavoie ([chris.lavoie@canada.ca](mailto:chris.lavoie@canada.ca))
+slug: syllabus
+date: 16-05-2019
 ...
 
 ## Course Info
