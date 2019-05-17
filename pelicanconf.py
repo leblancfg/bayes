@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import time
 
 AUTHOR = 'Francois Leblanc'
 SITENAME = 'Study Group - Doing Bayesian Data Analysis'
@@ -8,6 +9,7 @@ SITEURL = ''
 SITETITLE = 'Bayesian Study Group'
 SITESUBTITLE = 'A 10-Week Study Group on Bayesian Data Analysis'
 SITELOGO = 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayes_icon.svg/500px-Bayes_icon.svg.png'
+FAVICON = '/img/icons/favicon.ico'
 
 ROBOTS = 'index, follow'
 
@@ -50,7 +52,7 @@ CC_LICENSE = {
     'slug': 'CC0'
 }
 
-COPYRIGHT_YEAR = 2019
+COPYRIGHT_YEAR = time.strftime('%Y')
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -60,3 +62,7 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['img', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
+### Make an index page
+MENUITEMS = (
+  ('Home','/'),
+)
