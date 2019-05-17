@@ -8,7 +8,7 @@ This website will serve as an easily-accesible repository of course material, sy
 ## Bayesian Statistics
 Here's a short-ish explanatory video of Bayesian analysis:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3OJEae7Qb_o?start=213" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3OJEae7Qb_o?start=213" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Bayesian analysis is particularly useful when:
 
@@ -31,4 +31,4 @@ We might lump some a few of the introductory chapters for the first weeks. We'll
 
 ## Logistics
 
-The plan is to webcam over WebEx, and perform directed sessions together as a study group. Suggestions for other means of doing this are more than welcome. Depending on interest, we can look into booking rooms.
+The plan is to webcam over WebEx, and perform directed sessions together as a study group. We are also looking into a partnership with the Canadian School of [Public Service's Digital Academy]() for a boardroom to meet in person. This section will be updated accordingly.
