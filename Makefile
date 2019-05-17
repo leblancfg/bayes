@@ -74,12 +74,12 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-github: refresh publish pandoc
+github: pandoc refresh publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 pandoc:
-	find content/pages -iname "*.md" -type f -exec sh -c 'pandoc "${0}" -o "./content/pdf/$(basename ${0%.html}.md)"' {} \;
+	pandoc content/pages/syllabus.md -o content/pdf/syllabus.pdf --variable urlcolor=cyan
 
 refresh:
 	rm -rf */.ipynb_checkpoints
