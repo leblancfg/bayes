@@ -7,7 +7,8 @@ This website will serve as an easily-accesible repository of course material, sy
 
 ## Bayesian Statistics
 Here's a short-ish explanatory video of Bayesian analysis:
-https://youtu.be/3OJEae7Qb_o?t=213
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3OJEae7Qb_o?start=213" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bayesian analysis is particularly useful when:
 
