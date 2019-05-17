@@ -26,10 +26,6 @@ DATE_FORMATS = {
     'en': '%B %d, %Y',
 }
 
-# Plugins
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['pandoc_reader']
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
