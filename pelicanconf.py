@@ -26,6 +26,10 @@ DATE_FORMATS = {
     'en': '%B %d, %Y',
 }
 
+# Plugins
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['pandoc_reader']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -48,8 +52,9 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 CC_LICENSE = {
-    'name': 'Public Domain',
-    'slug': 'CC0'
+    'name': 'Creative Commons Attribution',
+    'version': '4.0',
+    'slug': 'by'
 }
 
 COPYRIGHT_YEAR = time.strftime('%Y')
@@ -59,7 +64,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Define Links
-STATIC_PATHS = ['img', 'extra/CNAME']
+STATIC_PATHS = ['img', 'pdf', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
-
-### Make an index page

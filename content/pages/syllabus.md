@@ -1,7 +1,9 @@
+---
 Title: Syllabus
 Authors: [François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoie](mailto:chris.lavoie@canada.ca)
 Slug: syllabus
 Date: 16-05-2019
+...
 
 ## Course Info
 * Time: Friday 11 - 12AM

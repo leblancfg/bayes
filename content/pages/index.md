@@ -3,12 +3,12 @@ URL:
 save_as: index.html
 
 We are a group of motivated Canadian Public Servants who want to get our feet wet with Bayesian analysis and probabilistic programming. 
-This website will serve as an easily-accesible repository of course material, syllabus, references, etc.
+This website will serve as an easily-accessible repository of course material, syllabus, references, etc.
 
 ## Bayesian Statistics
 Here's a short-ish explanatory video of Bayesian analysis:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3OJEae7Qb_o?start=213" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3OJEae7Qb_o?start=213" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Bayesian analysis is particularly useful when:
 
@@ -20,7 +20,7 @@ Bayesian analysis is particularly useful when:
 
 >[Tentative syllabus](pages/syllabus.html)
 
-Based on multiple suggestions, we'll be following John Krushke's Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan (2nd edition) book.
+Based on multiple suggestions, we'll be following John Krushke's [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan (2nd edition)](https://sites.google.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed) book.
 
 This study group will meet weekly, and consist of two parts:
 
@@ -31,4 +31,4 @@ We might lump some a few of the introductory chapters for the first weeks. We'll
 
 ## Logistics
 
-The plan is to webcam over WebEx, and perform directed sessions together as a study group. We are also looking into a partnership with the Canadian School of [Public Service's Digital Academy]() for a boardroom to meet in person. This section will be updated accordingly.
+The plan is to webcam over WebEx, and perform directed sessions together as a study group. We are also looking into a partnership with the [Canadian School of Public Service's Digital Academy](https://gccollab.ca/groups/profile/1316691/endigital-academyfrlacadu00e9mie-du-numu00e9rique) for a boardroom to meet in person. This section will be updated accordingly.
