@@ -63,6 +63,3 @@ STATIC_PATHS = ['img', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 ### Make an index page
-MENUITEMS = (
-  ('Home','/'),
-)
