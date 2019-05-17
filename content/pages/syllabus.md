@@ -3,6 +3,8 @@ Authors: François Leblanc ([francois.leblanc@tbs-sct.gc.ca](mailto:francois.leb
 Slug: syllabus
 Date: 16-05-2019
 
+>You can [download this syllabus in PDF version here](https://bayes.leblancfg.com/pdf/syllabus.pdf).
+
 ## Course Info
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
