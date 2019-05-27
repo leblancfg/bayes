@@ -38,7 +38,7 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 # Social widget
-SOCIAL = (
+LINKS = (
             ('Textbook Website', 'http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/'),
             ('Digital Academy', 'https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx'),
          )

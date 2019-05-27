@@ -14,7 +14,9 @@ Authors:[François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoi
 * Join us in person: [Bayview Yards, Boardroom TBD](https://goo.gl/maps/MvZ3dwcMttQvPk8AA)
 * Or join us online: [details TBD](https://gts-ee.webex.com/)
 
+<center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.989635437857!2d-75.73018698362661!3d45.409548579100374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce04402bbd31e3%3A0x5f8afa5e5dcf7cfe!2sBayview+Yards!5e0!3m2!1sen!2sus!4v1558984106056!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</center>
 
 ## Required Text
 >**Doing Bayesian Data Analysis, 2nd Edition: A tutorial with R, JAGS, and Stan**, by John K. Kruschke (2015), published by Academic Press / Elsevier, ISBN-13: 978-0124058880.
