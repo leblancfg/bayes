@@ -1,15 +1,14 @@
-Title: Syllabus
-Authors: François Leblanc ([francois.leblanc@tbs-sct.gc.ca](mailto:francois.leblanc@tbs-sct.gc.ca)), Chris Lavoie ([chris.lavoie@canada.ca](mailto:chris.lavoie@canada.ca))
-Slug: syllabus
-Date: 16-05-2019
-
->You can [download this syllabus in PDF version here](https://bayes.leblancfg.com/pdf/syllabus.pdf).
-
+---
+title: Study Group Syllabus &mdash; Doing Bayesian Data Analysis 
+author:
+- François Leblanc ([francois.leblanc@tbs-sct.gc.ca](mailto:francois.leblanc@tbs-sct.gc.ca))
+- Chris Lavoie ([chris.lavoie@canada.ca](mailto:chris.lavoie@canada.ca))
+...
 ## Course Info
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
-* Join us online by WebEx: [TODO](https://gts-ee.webex.com/)
-* Or join us in person: [Boardroom TBD](https://goo.gl/maps/pjWNqzHnb25vU59B9)
+* Join us in person: [Bayview Yards, Boardroom TBD](https://goo.gl/maps/pjWNqzHnb25vU59B9)
+* Or join us online: [details TBD](https://gts-ee.webex.com/)
 
 ## Required Text
 >**Doing Bayesian Data Analysis, 2nd Edition: A tutorial with R, JAGS, and Stan**, by John K. Kruschke (2015), published by Academic Press / Elsevier, ISBN-13: 978-0124058880.
@@ -35,31 +34,31 @@ The analyses will be performed using the freely available software Python and R,
 
 ## Tentative Schedule
 
-1. May 31st 2019 - Introduction, Probability, and Setting Up
+1. June 7th 2019 - Introduction, Probability, and Setting Up
 	* Chapters 2-4
 	* Assignment: Setting up environment, Ex. 2.1, 2.2, 4.3, 4.6
-2. June 7th 2019 - Bayes' rule, Inferences with binomials
+2. June 14th 2019 - Bayes' rule, Inferences with binomials
 	* Chapters 5-6
 	* Assignment: Ex. 5.1 - 5.4, 6.1, 6.2, 6.4, 6.5
-3. June 14th 2019 - Sampling methods: Markov Chain Monte Carlo (MCMC) and JAGS
+3. June 21st 2019 - Sampling methods: Markov Chain Monte Carlo (MCMC) and JAGS
 	* Chapters 7-8
 	* Assignment: *TBD*
-4. June 21st 2019 - Hierarchical models
+4. June 28th 2019 - Hierarchical models
 	* Chapter 9
 	* Assignment: *TBD*
-5. June 28th 2019 - Model checking and comparison, Reporting a Bayesian Analysis
+5. July 5th 2019 - Model checking and comparison, Reporting a Bayesian Analysis
 	* Chapters 10, 25.1
 	* Assignment: *TBD*
-6. July 5th 2019 - Null Hypothesis Testing, Goals, Power & Sample Size
+6. July 12th 2019 - Null Hypothesis Testing, Goals, Power & Sample Size
 	* Chapters 11 - 13
 	* Assignment: *TBD*
-7. July 12th 2019 - Linear Regression
+7. June 21st 2019 - Linear Regression
 	* Chapter 16
 	* Assignment: *TBD*
-8. June 21st 2019 - Generalized linear models
+8. July 19th 2019 - Generalized linear models
 	* Chapter 15
 	* Assignment: *TBD*
-9. July 19th 2019 - Logistic Regression
+9. July 26th 2019 - Logistic Regression
 	* Chapters 21 - 22
 	* Assignment: *TBD*
-10. July 26th 2019 - Special Topic - Principled Bayesian Workflow by [Dr Keith O'Rourke (Health Canada)](https://profils-profiles.science.gc.ca/en/profile/dr-keith-orourke)
+10. August 2nd - Special Topic - Principled Bayesian Workflow by [Dr Keith O'Rourke (Health Canada)](https://profils-profiles.science.gc.ca/en/profile/dr-keith-orourke)
