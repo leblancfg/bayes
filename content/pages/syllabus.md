@@ -6,6 +6,8 @@ Slug: syllabus
 Authors:[François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoie](mailto:chris.lavoie@canada.ca)
 ...
 
+>Click [here to access the PDF version](https://bayes.leblancfg.com/pdf/syllabus.pdf).
+
 ## Course Info
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
