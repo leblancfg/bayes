@@ -37,15 +37,11 @@ USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
-# Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
-
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+            ('Textbook Website', 'http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/'),
+            ('Digital Academy', 'https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx'),
+         )
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution',

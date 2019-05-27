@@ -31,4 +31,4 @@ We might lump some a few of the introductory chapters for the first weeks. We'll
 
 ## Logistics
 
-The plan is to webcam over WebEx, and perform directed sessions together as a study group. We are also looking into a partnership with the [Canadian School of Public Service's Digital Academy](https://gccollab.ca/groups/profile/1316691/endigital-academyfrlacadu00e9mie-du-numu00e9rique) for a boardroom to meet in person. This section will be updated accordingly.
+The plan is for participants to collaboratively perform directed sessions together as a study group, either by webcam or in person. We are partnering with the [Canadian School of Public Service's Digital Academy](https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx00e9mie-du-numu00e9rique) for services and a boardroom to meet in person. This section will be updated accordingly.
