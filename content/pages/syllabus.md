@@ -1,9 +1,11 @@
 ---
-title: Study Group Syllabus &mdash; Doing Bayesian Data Analysis 
-author:
-- François Leblanc ([francois.leblanc@tbs-sct.gc.ca](mailto:francois.leblanc@tbs-sct.gc.ca))
-- Chris Lavoie ([chris.lavoie@canada.ca](mailto:chris.lavoie@canada.ca))
+Title: Syllabus
+Date: 2019-05-15
+Modified: 2019-05-27
+Slug: syllabus
+Authors:[François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoie](mailto:chris.lavoie@canada.ca)
 ...
+
 ## Course Info
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
