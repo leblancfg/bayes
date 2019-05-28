@@ -11,7 +11,7 @@ Authors:[François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoi
 ## Course Info
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
-* Join us in person: [Bayview Yards, Boardroom TBD](https://goo.gl/maps/MvZ3dwcMttQvPk8AA)
+* Join us in person: [Bayview Yards, Boardroom W101](https://goo.gl/maps/MvZ3dwcMttQvPk8AA)
 * Or join us online: [details TBD](https://gts-ee.webex.com/)
 
 <center>
