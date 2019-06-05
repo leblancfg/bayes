@@ -12,7 +12,7 @@ Authors:[François Leblanc](mailto:francois.leblanc@tbs-sct.gc.ca), [Chris Lavoi
 * Time: Friday 11 - 12AM
 * Website: [bayes.leblancfg.com](https://bayes.leblancfg.com)
 * Join us in person: [Bayview Yards, Boardroom W101](https://goo.gl/maps/MvZ3dwcMttQvPk8AA)
-* Or join us online: [details TBD](https://gts-ee.webex.com/)
+* Or join us online: [by WebEx](https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=m9967480f11b26455afb0a47c5ce089fa)
 
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.989635437857!2d-75.73018698362661!3d45.409548579100374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce04402bbd31e3%3A0x5f8afa5e5dcf7cfe!2sBayview+Yards!5e0!3m2!1sen!2sus!4v1558984106056!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

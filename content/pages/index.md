@@ -5,6 +5,8 @@ save_as: index.html
 We are a group of motivated Canadian Public Servants who want to get our feet wet with Bayesian analysis and probabilistic programming. 
 This website will serve as an easily-accessible repository of course material, syllabus, references, etc.
 
+>[Join us by WebEx](https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=m9967480f11b26455afb0a47c5ce089fa) (password required).
+
 ## Bayesian Statistics
 Here's a short-ish explanatory video of Bayesian analysis:
 
