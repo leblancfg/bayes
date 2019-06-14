@@ -33,4 +33,4 @@ We might lump some a few of the introductory chapters for the first weeks. We'll
 
 ## Logistics
 
-The plan is for participants to collaboratively perform directed sessions together as a study group, either by webcam or in person. We are partnering with the [Canadian School of Public Service's Digital Academy](https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx00e9mie-du-numu00e9rique) for services and a boardroom to meet in person. This section will be updated accordingly.
+The plan is for participants to collaboratively perform directed sessions together as a study group, either by webcam or in person. We are partnering with the [Canadian School of Public Service's Digital Academy](https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx00e9mie-du-numu00e9rique) for services and a boardroom to meet in person. Check the links on the left to access the details on how to communicate with the group.

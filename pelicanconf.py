@@ -39,6 +39,7 @@ HOME_HIDE_TAGS = True
 
 # Social widget
 LINKS = (
+            ('Slack Channel', 'https://csps-efpc-daan.slack.com/messages/CKDHZQSH5/details/'),
             ('Textbook Website', 'http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/'),
             ('Digital Academy', 'https://www.csps-efpc.gc.ca/About_us/Business_lines/digitalacademy-eng.aspx'),
          )

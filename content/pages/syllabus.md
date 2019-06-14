@@ -48,14 +48,14 @@ The analyses will be performed using the freely available software Python and R,
 2. June 14th 2019 - Bayes' rule, Inferences with binomials
 	* Chapters 5-6
 	* Assignment: Ex. 5.1 - 5.4, 6.1, 6.2, 6.4, 6.5
-3. June 21st 2019 - Sampling methods: Markov Chain Monte Carlo (MCMC) and JAGS
-	* Chapters 7-8
-	* Assignment: *TBD*
-4. June 28th 2019 - Hierarchical models
+3. June 21st 2019 - Sampling methods: Markov Chain Monte Carlo (MCMC)
+	* Chapters 7
+	* Assignment: 7.1 - 7.3
+4. June 28th 2019 - JAGS
+	* Chapter 8
+	* Assignment: 8.1 - 8.4
+5. July 5th 2019 - Hierarchical models
 	* Chapter 9
-	* Assignment: *TBD*
-5. July 5th 2019 - Model checking and comparison, Reporting a Bayesian Analysis
-	* Chapters 10, 25.1
 	* Assignment: *TBD*
 6. July 12th 2019 - Null Hypothesis Testing, Goals, Power & Sample Size
 	* Chapters 11 - 13
