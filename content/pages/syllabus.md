@@ -58,8 +58,8 @@ The analyses will be performed using the freely available software Python and R,
 	* Chapter 9
 	* Assignment: 9.1 - 9.3
 6. July 12th 2019 - Model Comparison & Null Hypothesis Testing
-	* Chapters 11-13
-	* Assignment: 11.1, 11.2, 13.2 - 13.4
+	* Chapters 10-11
+	* Assignment: 10.1 - 10.3, 11.1, 11.2
 7. June 21st 2019 - Linear Regression
 	* Chapter 16
 	* Assignment: *TBD*
