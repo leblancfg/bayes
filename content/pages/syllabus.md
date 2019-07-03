@@ -42,7 +42,7 @@ The analyses will be performed using the freely available software Python and R,
 
 ## Tentative Schedule
 
-1. June 7th 2019 - Introduction, Probability, and Setting Up
+2. June 7th 2019 - Introduction, Probability, and Setting Up
 	* Chapters 2-4
 	* Assignment: Setting up environment, Ex. 2.1, 2.2, 4.3, 4.6
 2. June 14th 2019 - Bayes' rule, Inferences with binomials
@@ -56,10 +56,10 @@ The analyses will be performed using the freely available software Python and R,
 	* Assignment: 8.1 - 8.4
 5. July 5th 2019 - Hierarchical models
 	* Chapter 9
-	* Assignment: *TBD*
-6. July 12th 2019 - Null Hypothesis Testing, Goals, Power & Sample Size
-	* Chapters 11 - 13
-	* Assignment: *TBD*
+	* Assignment: 9.1 - 9.3
+6. July 12th 2019 - Model Comparison & Null Hypothesis Testing
+	* Chapters 11-13
+	* Assignment: 11.1, 11.2, 13.2 - 13.4
 7. June 21st 2019 - Linear Regression
 	* Chapter 16
 	* Assignment: *TBD*
