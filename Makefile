@@ -74,9 +74,13 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-github: refresh publish
+github: refresh publish pandoc
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
+
+pandoc:
+	echo "WARNING: Using hardcoded location"
+	pandoc ~/bayes/syllabus.md -o content/pdf/syllabus.pdf --variable urlcolor=cyan
 
 refresh:
 	rm -rf */.ipynb_checkpoints
@@ -85,4 +89,4 @@ refresh:
 	git commit -m "Update the content"
 	git push origin dev
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github refresh
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github refresh pandoc
