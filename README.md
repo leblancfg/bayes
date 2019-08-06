@@ -12,6 +12,7 @@ Development for the site is done on the `dev` branch, and published through the 
 The site uses a [static site generator called Pelican](https://blog.getpelican.com/). The content for the pages can be found in the `content` folder.
 
 To install pelican and requirements:
+
     pip install pelican ghp-import
 
 ### Github Pages
