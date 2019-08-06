@@ -4,7 +4,7 @@ Static website for a study group for John Kruschke's Doing Bayesian Data analysi
 ## Installation
 Development for the site is done on the `dev` branch, and published through the `master` branch.
 
-    git clone https://github.com/leblancfg/bayes
+    git clone --recursive https://github.com/leblancfg/bayes
     cd bayes
     git checkout dev
 
